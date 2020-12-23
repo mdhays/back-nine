@@ -1,0 +1,23 @@
+{
+  "name": "back-nine",
+  "version": "1.0.0",
+  "description": "Matching card game with a golf theme.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdhays/back-nine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdhays/back-nine/issues"
+  },
+  "homepage": "https://github.com/mdhays/back-nine#readme",
+  "dependencies": {
+    "phaser": "^3.50.1"
+  }
+}
